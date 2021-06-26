@@ -1,0 +1,21 @@
+ul li{
+    list-style-type: none;
+    margin: 10px 10px 0 0 ;
+    cursor: pointer;
+}
+ul{
+    padding: 0;
+    margin: 0;
+}
+.social-menu li{
+    display: inline-block;
+    
+}
+.social-menu li i{
+    font-size: 30px;
+    transition: all .25s ease-in-out;
+}
+.social-menu li i:hover{
+    color: gray;
+    transform: scale(1.1);
+}

@@ -1,0 +1,10 @@
+.done{
+    color: rgb(4, 255, 4);
+}
+.ongoing{
+    color: rgb(141, 141, 0)
+    ;
+}
+.pending{
+    color: rgb(255, 0, 0);
+}
